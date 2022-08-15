@@ -1,6 +1,8 @@
 # Ship Simulator
 It is a very very old project, which I did as a final task for programming courses. It is very messy, glitchy and janky, contains a lot of useless stuff and loud sounds. I still decided to share it, because why not. 
+
 I didn't do any changes to this code besides making it work in MS VS 2022 and I probably won't, since it doesn't make any sense and it was just made for fun. Which means that it contains untranslated text, which I will describe later.
+
 It's made in MS Visual Studio using .NET Framework and Windows Forms builder, so you need at least .NET Framework 4.3 to build and run it.
 
 # How to play
